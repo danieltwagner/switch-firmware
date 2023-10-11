@@ -13,5 +13,8 @@ cd ch341prog && make
 ./ch341prog -r flash.bin
 ```
 
-Horaco ZX-SWTGW218AS 8x 2.5G + 1x SFP+ web managed switch
+# Horaco ZX-SWTGW218AS 8x 2.5G + 1x SFP+ web managed switch
 Flash chip: FM25Q16A 16mbit 3.3V
+
+# Davuaz Da-K6402W
+Flash Chip Boya Micro 25Q16BS 16mbit 3.3V
