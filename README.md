@@ -16,5 +16,11 @@ cd ch341prog && make
 # Horaco ZX-SWTGW218AS 8x 2.5G + 1x SFP+ web managed switch
 Flash chip: FM25Q16A 16mbit 3.3V
 
+# Horaco LG-SWTG018AS 8x 2.5G + 1x SFP+ unmanaged switch
+Flash chip: 25Q40M 4mbit 3.3V
+
 # Davuaz Da-K6402W
-Flash Chip Boya Micro 25Q16BS 16mbit 3.3V
+Flash chip: Boya Micro 25Q16BS 16mbit 3.3V
+
+# Hasivo S1100P-8GT (RTL8373 + RTL8224 variant)
+Flash chip: KH 25L3233F 32mbit 3.3V
