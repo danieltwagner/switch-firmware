@@ -24,3 +24,6 @@ Flash chip: Boya Micro 25Q16BS 16mbit 3.3V
 
 # Hasivo S1100P-8GT (RTL8373 + RTL8224 variant)
 Flash chip: KH 25L3233F 32mbit 3.3V
+
+# Sirivision SR-S25G2109FP 8x 2.5G + 1x SFP+ web managed switch with POE
+Flash chip: GD 25Q16ESIG 16mbit 3.3V
