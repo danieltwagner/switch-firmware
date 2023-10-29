@@ -15,16 +15,20 @@ cd ch341prog && make
 
 # Horaco ZX-SWTGW218AS 8x 2.5G + 1x SFP+ web managed switch
 Flash chip: FM25Q16A 16mbit 3.3V
+RTL8373 + RTL8224?
 
 # Horaco LG-SWTG018AS 8x 2.5G + 1x SFP+ unmanaged switch
 Flash chip: 25Q40M 4mbit 3.3V
-UART port: device TX (square), GND, device RX, VCC. Connect using 57600 baud.
+RTL8371B + RTL8224?
+UART port: device TX (square), GND, device RX, VCC. Connect at 9600 baud.
 
 # Davuaz Da-K6402W
 Flash chip: Boya Micro 25Q16BS 16mbit 3.3V
 
-# Hasivo S1100P-8GT (RTL8373 + RTL8224 variant)
+# Hasivo S1100P-8GT
 Flash chip: KH 25L3233F 32mbit 3.3V
+RTL 8371B + RTL8224?
 
 # Sirivision SR-S25G2109FP 8x 2.5G + 1x SFP+ web managed switch with POE
 Flash chip: GD 25Q16ESIG 16mbit 3.3V
+RTL8373 + RTL8224?
