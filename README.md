@@ -18,6 +18,7 @@ Flash chip: FM25Q16A 16mbit 3.3V
 
 # Horaco LG-SWTG018AS 8x 2.5G + 1x SFP+ unmanaged switch
 Flash chip: 25Q40M 4mbit 3.3V
+UART port: device TX (square), GND, device RX, VCC. Connect using 57600 baud.
 
 # Davuaz Da-K6402W
 Flash chip: Boya Micro 25Q16BS 16mbit 3.3V
